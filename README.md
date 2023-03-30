@@ -27,4 +27,6 @@ https://www.linkedin.com/in/thiago-limaaa-/
 
 
 ## Screenshots
+![tarefa](https://user-images.githubusercontent.com/102311684/228843884-058630d0-0bcd-4284-bb1e-1f7b6e05b8c5.png)
+![Lista de Tarefa](https://user-images.githubusercontent.com/102311684/228843900-2147d2d2-6afa-4695-b3c9-7269eea07210.png)
 
